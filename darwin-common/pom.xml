@@ -204,6 +204,40 @@
 		</repository>
 	</repositories>
 
+	<licenses>
+		<license>
+			<name>Apache 2</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+			<comments>A business-friendly OSS license</comments>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Liao Qiqi</name>
+			<id>knightliao</id>
+			<email>knightliao@gmail.com</email>
+			<roles>
+				<role>Developer</role>
+			</roles>
+			<timezone>+8</timezone>
+		</developer>
+	</developers>
+
+	<organization>
+		<name>KNIGHT</name>
+		<url>https://github.com/knightliao/generic-dao</url>
+	</organization>
+
+	<scm>
+		<url>scm:git:git@github.com:knightliao/generic-dao</url>
+		<connection>scm:git:git@github.com:knightliao/generic-dao</connection>
+		<tag>vpaas</tag>
+	</scm>
+
+	<description>.</description>
+
 	<profiles>
 		<profile>
 			<id>release</id>
