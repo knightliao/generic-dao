@@ -1,2 +1,3 @@
 # generic-dao
-dao相关的代码模块
+
+- simple-generic-dao: java的dao访问代码
