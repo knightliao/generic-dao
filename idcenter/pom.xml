@@ -50,9 +50,9 @@
 
 		<!-- simpleGenericDao -->
 		<dependency>
-			<groupId>org.darwin</groupId>
+			<groupId>com.github.knightliao.extend</groupId>
 			<artifactId>simple-generic-dao</artifactId>
-			<version>0.1.6-SNAPSHOT</version>
+			<version>0.1.7-SNAPSHOT</version>
 		</dependency>
 
 		<!-- datasource -->
